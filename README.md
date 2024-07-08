@@ -1,18 +1,18 @@
 # NBA-DATA-ANALYSIS
 ->Identify Key Metrics:
-Height (No Shoes)
-Height (With Shoes)
-Wingspan
-Standing reach
-Weight
-Vertical (Max)
-Body Fat Percentage
+1.Height (No Shoes)
+2.Height (With Shoes)
+3.Wingspan
+4.Standing reach
+5.Weight
+6.Vertical (Max)
+7.Body Fat Percentage
 
 ->Investigate Relationships:
-Correlation matrix and heatmap
-Pairwise scatter plots
-Statistical summaries
-Linear regression models to understand relationships between key metrics
+1.Correlation matrix and heatmap
+2.Pairwise scatter plots
+3.Statistical summaries
+4.Linear regression models to understand relationships between key metrics
 
 
 ->Insights:
